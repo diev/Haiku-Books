@@ -30,7 +30,7 @@
 * [Значение Дзен в будзюцу](znachenie_dzen_v_budzyutsu.md)
 * [Эволюция будзюцу](evolyutsiya_budzyutsu.md)
 * [Праздничная весна](prazdnichnaya_vesna.md)
-* Белый день: что дарят в Японии
+* [Белый день: что дарят в Японии](belii_den_chto_daryat_v_yaponii.md)
 * Цветет сакура
 * Букет & икэбана
 * Искусство для искушенных
