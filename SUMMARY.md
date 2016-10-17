@@ -37,7 +37,7 @@
 * [Бонсай любит профессионалов](bonsai_lyubit_professionalov.md)
 * [Праздник маленьких японок](prazdnik_malenkih_yaponok.md)
 * [Праздник силы и бодрости духа](prazdnik_sili_i_bodrosti_duha.md)
-* Японский меч: философия оружия
+* [Японский меч: философия оружия](yaponskii_mech_filosofiya_oruzhiya.md)
 * Пять красок Японии
 * Сад оригами
 * Возвращение оригами
