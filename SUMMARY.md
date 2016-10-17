@@ -43,7 +43,7 @@
 * [Возвращение оригами](vozvraschenie_origami.md)
 * [Японские открытки](yaponskie_otkritki.md)
 * [Киото - старая столица](kioto_staraya_stolitsa.md)
-* Игра императоров, мудрецов и великих комбинаторов
+* [Игра императоров, мудрецов и великих комбинаторов](igra_imperatorov,_mudretsov_i_velikih_kombinatorov.md)
 * Когда властвует луна...
 * Что такое аниме?
 * Вечеринка в японском стиле
