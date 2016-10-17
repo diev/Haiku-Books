@@ -44,7 +44,7 @@
 * [Японские открытки](yaponskie_otkritki.md)
 * [Киото - старая столица](kioto_staraya_stolitsa.md)
 * [Игра императоров, мудрецов и великих комбинаторов](igra_imperatorov,_mudretsov_i_velikih_kombinatorov.md)
-* Когда властвует луна...
+* [Когда властвует луна...](kogda_vlastvuet_luna.md)
 * Что такое аниме?
 * Вечеринка в японском стиле
 * Онигири: рисовые колобки по-японски
