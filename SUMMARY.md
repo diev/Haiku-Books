@@ -38,7 +38,7 @@
 * [Праздник маленьких японок](prazdnik_malenkih_yaponok.md)
 * [Праздник силы и бодрости духа](prazdnik_sili_i_bodrosti_duha.md)
 * [Японский меч: философия оружия](yaponskii_mech_filosofiya_oruzhiya.md)
-* Пять красок Японии
+* [Пять красок Японии](pyat_krasok_yaponii.md)
 * Сад оригами
 * Возвращение оригами
 * Японские открытки
