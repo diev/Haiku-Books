@@ -21,7 +21,7 @@
 * [Иида Дакоцу](iida_dakotsu.md)
 * [Накамура Кусадао](nakamura_kusadao.md)
 * [Нацумэ Сосэки](natsume_soseki.md)
-* Акутагава Рюноскэ
+* [Акутагава Рюноскэ](akutagava_ryunoske.md)
 * Танэда Сантока
 * Мидзухара Сюоси
 * [Пробуем сочинять хайку](haiku_fonyakov.md)
