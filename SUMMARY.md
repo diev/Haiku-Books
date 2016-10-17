@@ -49,6 +49,6 @@
 * [Вечеринка в японском стиле](vecherinka_v_yaponskom_stile.md)
 * [Онигири: рисовые колобки по-японски](onigiri_risovie_kolobki.md)
 * [Крокеты по-японски](kroketi_po-yaponski.md)
-* Японский кулинарный словарь
+* [Японский кулинарный словарь](yaponskii_kulinarnii_slovar.md)
 * Изысканный мотив
 
