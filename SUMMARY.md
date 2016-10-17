@@ -29,7 +29,7 @@
 * [Путь воина](put_voina.md)
 * [Значение Дзен в будзюцу](znachenie_dzen_v_budzyutsu.md)
 * [Эволюция будзюцу](evolyutsiya_budzyutsu.md)
-* Праздничная весна
+* [Праздничная весна](prazdnichnaya_vesna.md)
 * Белый день: что дарят в Японии
 * Цветет сакура
 * Букет & икэбана
