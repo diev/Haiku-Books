@@ -31,7 +31,7 @@
 * [Эволюция будзюцу](evolyutsiya_budzyutsu.md)
 * [Праздничная весна](prazdnichnaya_vesna.md)
 * [Белый день: что дарят в Японии](belii_den_chto_daryat_v_yaponii.md)
-* Цветет сакура
+* [Цветет сакура](tsvetet_sakura.md)
 * Букет & икэбана
 * Искусство для искушенных
 * Бонсай любит профессионалов
