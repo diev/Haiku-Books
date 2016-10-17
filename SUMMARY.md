@@ -39,7 +39,7 @@
 * [Праздник силы и бодрости духа](prazdnik_sili_i_bodrosti_duha.md)
 * [Японский меч: философия оружия](yaponskii_mech_filosofiya_oruzhiya.md)
 * [Пять красок Японии](pyat_krasok_yaponii.md)
-* Сад оригами
+* [Сад оригами](sad_origami.md)
 * Возвращение оригами
 * Японские открытки
 * Киото - старая столица
