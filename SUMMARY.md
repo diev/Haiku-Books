@@ -23,7 +23,7 @@
 * [Нацумэ Сосэки](natsume_soseki.md)
 * [Акутагава Рюноскэ](akutagava_ryunoske.md)
 * [Танэда Сантока](taneda_santoka.md)
-* Мидзухара Сюоси
+* [Мидзухара Сюоси](midzuhara_syuosi.md)
 * [Пробуем сочинять хайку](haiku_fonyakov.md)
 * Хронология японской истории по 1868 г.
 * Путь воина
