@@ -48,7 +48,7 @@
 * [Что такое аниме?](chto_takoe_anime.md)
 * [Вечеринка в японском стиле](vecherinka_v_yaponskom_stile.md)
 * [Онигири: рисовые колобки по-японски](onigiri_risovie_kolobki.md)
-* Крокеты по-японски
+* [Крокеты по-японски](kroketi_po-yaponski.md)
 * Японский кулинарный словарь
 * Изысканный мотив
 
