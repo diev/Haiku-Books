@@ -8,15 +8,8 @@
 
 Кроме онлайн-чтения, всё это добро также можно скачать одним файлом (на компьютер или смартфон) для чтения без доступа к сети Интернет:
 
-<<<<<<< HEAD
-* древняя редакция от 18.06.2004, дошедшая до наших дней - [WebBooks.chm](https://github.com/diev/Haiku-Books/releases/tag/v1.0) для Windows или* [PDF](https://www.gitbook.com/download/pdf/book/diev/haiku-books), [EPUB](https://www.gitbook.com/download/epub/book/diev/haiku-books),[MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) - для программ-читалок на современных смартфонах.
-
-Моё любимое - то, ради чего все эти труды:
-
-```О, кому же ещёя мог бы отправить сегодняветку сливы в цвету?!Ведь и цветом, и ароматомнасладится лишь посвящённый!.. Ки-но Томонори```
-=======
 * древняя редакция от 18.06.2004, дошедшая до наших дней - [WebBooks.chm](https://github.com/diev/Haiku-Books/releases/tag/v1.0) для Windows или
-* [PDF](https://www.gitbook.com/download/pdf/book/diev/haiku-books), [EPUB](https://www.gitbook.com/download/epub/book/diev/haiku-books),[MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) - для программ-читалок на современных смартфонах.
+* [PDF](https://www.gitbook.com/download/pdf/book/diev/haiku-books), [EPUB](https://www.gitbook.com/download/epub/book/diev/haiku-books), [MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) - для программ-читалок на современных смартфонах.
 
 Моё любимое - то, ради чего все эти труды:
 
@@ -28,7 +21,6 @@
 насладится лишь посвящённый!..
   Ки-но Томонори
 ```
->>>>>>> origin/master
 
 Свои отзывы Вы можете оставить где-нибудь в моем [Facebook](https://facebook.com/dmitrii.evdokimov).
 
@@ -40,8 +32,4 @@ https://diev.gitbooks.io/haiku-books/
 
 Оглавление находится в файле [SUMMARY.md](SUMMARY.md)
 
-<<<<<<< HEAD
 Мои личные права на этот сборник не охраняются - его лицензия [CC0 1.0 Universal](LICENSE)
-=======
-Мои личные права на этот сборник не охраняются - его лицензия [CC0 1.0 Universal](LICENSE)
->>>>>>> origin/master
