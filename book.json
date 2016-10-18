@@ -8,9 +8,24 @@
         "creativecommons",
         "etoc",
         "fancybox",
-        "facebook",
         "flex-images",
         "hide-published-with",
         "indexes"
-    ]
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "sans",
+            "size": 2
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true,
+            "instapaper": true,
+            "vk": true,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        }
+    }
 }
