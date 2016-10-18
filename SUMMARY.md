@@ -38,10 +38,11 @@
 * [Пробуем сочинять хайку](fonyakov//haiku_fonyakov.md)
 
 ## Тайны древних цивилизаций. Самураи
-* [Хронология японской истории по 1868 г.](samurai//hronologiya_1868.md)
+* [О книге](samurai/toc.md)
 * [Путь воина](samurai//put_voina.md)
 * [Значение Дзен в будзюцу](samurai//znachenie_dzen_v_budzyutsu.md)
 * [Эволюция будзюцу](samurai//evolyutsiya_budzyutsu.md)
+* [Хронология японской истории по 1868 г.](samurai//hronologiya_1868.md)
 
 ## Panasonic: Ideas for life \#3, 2004
 * [Праздничная весна](ideas//prazdnichnaya_vesna.md)
