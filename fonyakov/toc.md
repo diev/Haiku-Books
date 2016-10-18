@@ -2,7 +2,7 @@
 
 ## Обложка
 
-![Обложка](fonyakov\images\fon_cover.jpg)
+![Обложка](fonyakov//images//fon_cover.jpg)
 
 ## Под обложкой
 
@@ -12,7 +12,7 @@
 
 _*в моем блокноте*_
 
-![Gates](fonyakov\images\gates.gif)
+![Gates](fonyakov//images//gates.gif)
 
 ```
 Санкт-Петербург
