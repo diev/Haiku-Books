@@ -1,13 +1,8 @@
 {
     "plugins": [
-        "anchor-navigation",
         "autocover",
-        "block-align",
         "collapsible-menu",
-        "codeblock",
         "creativecommons",
-        "etoc",
-        "fancybox",
         "flex-images",
         "hide-published-with",
         "indexes"
