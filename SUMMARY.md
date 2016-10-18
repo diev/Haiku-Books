@@ -1,16 +1,13 @@
-# Оглавление
+# Summary
 
 ## От составителя
-
 * [Введение](README.md)
 
 ## Басе
-
 * [Хайку](basyo//haiku_sokolov.md)
 * [Поэт-странник](basyo//poet-strannik.md)
 
 ## Японская поэзия
-
 * [От сердца к сердцу сквозь столетия](japanpoetry//japanpoetry01.md)
 * [Кокинсю - поиски пути](japanpoetry//japanpoetry02.md)
 * [Синкокинсю - поиски истинной красоты](japanpoetry//japanpoetry03.md)
@@ -24,7 +21,6 @@
 * [Бусон и Исса](japanpoetry//japanpoetry11.md)
 
 ## Цветы ямабуки
-
 * [Время перемен](yamabuki//haiku_dolin.md)
 * [Масаока Сики](yamabuki//masaoka_siki.md)
 * [Кавахигаси Хэкигодо](yamabuki//kavahigasi_hekigodo.md)
@@ -38,19 +34,16 @@
 * [Мидзухара Сюоси](yamabuki//midzuhara_syuosi.md)
 
 ## Япония в моем блокноте
-
-* [Пробуем сочинять хайку](fonyakov//haiku_fonyakov.md)
 * [О книге](fonyakov//toc.md)
+* [Пробуем сочинять хайку](fonyakov//haiku_fonyakov.md)
 
 ## Тайны древних цивилизаций. Самураи
-
 * [Хронология японской истории по 1868 г.](samurai//hronologiya_1868.md)
 * [Путь воина](samurai//put_voina.md)
 * [Значение Дзен в будзюцу](samurai//znachenie_dzen_v_budzyutsu.md)
 * [Эволюция будзюцу](samurai//evolyutsiya_budzyutsu.md)
 
 ## Panasonic: Ideas for life \#3, 2004
-
 * [Праздничная весна](ideas//prazdnichnaya_vesna.md)
 * [Белый день: что дарят в Японии](ideas//belii_den_chto_daryat_v_yaponii.md)
 * [Цветет сакура](ideas//tsvetet_sakura.md)
@@ -74,6 +67,5 @@
 * [Японский кулинарный словарь](ideas//yaponskii_kulinarnii_slovar.md)
 
 ## Art&Times N1\(12\) 2004
-
 * [Изысканный мотив](arttimes//iziskannii_motiv.md)
 
