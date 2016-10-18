@@ -1,5 +1,6 @@
 # Праздничная весна
 
+![](/assets/01.jpg)
 ![](/assets/04.jpg)
 ![](/assets/05.jpg)
 ![](/assets/06.jpg)
