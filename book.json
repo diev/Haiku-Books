@@ -1,3 +1,18 @@
 {
-
+    "plugins": [
+        "anchor-navigation",
+        "autocover",
+        "block-align",
+        "collapsible-menu",
+        "codeblock",
+        "creativecommons",
+        "download-pdf",
+        "edit-link",
+        "etoc",
+        "fancybox",
+        "facebook",
+        "flex-images",
+        "hide-published-with",
+        "indexes"
+    ]
 }
