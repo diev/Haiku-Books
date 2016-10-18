@@ -1,11 +1,11 @@
 {
     "plugins": [
-        "autocover",
-        "collapsible-menu",
-        "creativecommons",
-        "flex-images",
-        "hide-published-with",
-        "indexes"
+        "highlight",
+        "lunr",
+        "search",
+        "sharing",
+        "theme-default",
+        "fontsettings"
     ],
     "pluginsConfig": {
         "fontsettings": {
@@ -20,7 +20,7 @@
             "weibo": true,
             "instapaper": true,
             "vk": true,
-            "all": "facebook,google,twitter,weibo,instapaper"
+            "all": "facebook,google,twitter,weibo,instapaper,vk"
         }
     }
 }
