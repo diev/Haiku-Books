@@ -1,6 +1,6 @@
 # Книги о Хайку
 
-* Редакция от 18.10.2016
+* [Редакция](https://github.com/diev/Haiku-Books) от 18.10.2016
 
 Это некоторые из имеющихся у меня материалов (книг, журналов, газетных вырезок) о хайку, с которыми я хотел бы познакомить своих друзей. Время от времени эти материалы пополняются и облагораживаются - заходите за обновленными редакциями!
 
@@ -9,7 +9,7 @@
 Кроме онлайн-чтения, всё это добро также можно скачать одним файлом (на компьютер или смартфон) для чтения без доступа к сети Интернет:
 
 * древняя редакция от 18.06.2004, дошедшая до наших дней - [WebBooks.chm](https://github.com/diev/Haiku-Books/releases/tag/v1.0) для Windows или
-* [PDF](https://www.gitbook.com/download/pdf/book/diev/haiku-books), [EPUB](https://www.gitbook.com/download/epub/book/diev/haiku-books),[MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) для программ-читалок на современных смартфонах.
+* [PDF](https://www.gitbook.com/download/pdf/book/diev/haiku-books), [EPUB](https://www.gitbook.com/download/epub/book/diev/haiku-books),[MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) - для программ-читалок на современных смартфонах.
 
 Моё любимое - то, ради чего все эти труды:
 
