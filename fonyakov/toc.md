@@ -1,4 +1,4 @@
-![Обложка](/fonyakov/images/fon-cover.jpg)
+![Обложка](/assets/fon-cover.jpg)
 
 ИЛЬЯ ФОНЯКОВ
 
@@ -6,7 +6,7 @@
 
 _*в моем блокноте*_
 
-![Gates](/fonyakov/images/gates.gif)
+![Gates](/assets/gates.gif)
 
 ```
 Санкт-Петербург
