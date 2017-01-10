@@ -79,11 +79,11 @@
             <table class="table-downloads">
               <thead>
                 {% if en %}
-                  <th>Release</th>
+                  <th>Release Notes</th>
                   <th>Download</th>
                   <th>Date</th>
                 {% else %}
-                  <th>Релиз</th>
+                  <th>Релизы и инфо</th>
                   <th>Скачать</th>
                   <th>Дата</th>
                 {% endif %}
@@ -98,7 +98,7 @@
                   if (release.assets.length === 0) {
                     continue;
                   }
-                  for (var j = 0; i < release.assets.length; j++) {
+                  for (var j = 0; j < release.assets.length; j++) {
                     var asset = release.assets[j];
                     var fileSize = Math.round(asset.size / 1024);
                     $(".table-downloads tbody")
