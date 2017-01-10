@@ -35,7 +35,8 @@
 [MOBI](https://www.gitbook.com/download/mobi/book/diev/haiku-books) - 
 для программ-читалок на современных смартфонах;
 * [GitHub](https://github.com/diev/Haiku-Books) - если Вы программист :) 
-Оглавление находится в файле [SUMMARY.md](SUMMARY.md)
+Оглавление находится в файле 
+[SUMMARY.md](https://github.com/diev/Haiku-Books/SUMMARY.md)
 
 ## Лицензия
 
