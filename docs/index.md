@@ -36,7 +36,7 @@
 для программ-читалок на современных смартфонах;
 * [GitHub](https://github.com/diev/Haiku-Books) - если Вы программист :) 
 Оглавление находится в файле 
-[SUMMARY.md](https://github.com/diev/Haiku-Books/SUMMARY.md)
+[SUMMARY.md](https://github.com/diev/Haiku-Books/blob/master/SUMMARY.md)
 
 ## Лицензия
 
